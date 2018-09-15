@@ -1,6 +1,7 @@
 $(function () {
     // load 動畫
-    $(window).on('load', function () {
+    $(window).ready(function () {
+
         setTimeout(function () {
             $('body').addClass('loaded');
             $('.loading').fadeOut(1000);
@@ -11,9 +12,8 @@ $(function () {
                 }
             );
         }, 1000);
-       
-    })
 
+    });
 })
 
 
