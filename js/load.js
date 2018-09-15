@@ -4,6 +4,7 @@ $(function () {
         setTimeout(function () {
             $('body').addClass('loaded');
             $('.loading').fadeOut(1000);
+            $(document).trigger('aosstart');
             AOS.init(
                 {
                     once: true,
