@@ -51,14 +51,14 @@ $(function () {
 			customername: '試媒體',
 		},
 		{
-			ahref: 'http://www.sst539.com/03',
-			imgsrc: 'img/c11.png',
-			customername: '築禾豐',
-		},
-		{
 			ahref: 'http://hero029.so-buy.com/m/home.php',
 			imgsrc: 'img/c12.png',
 			customername: '隆電',
+		},
+		{
+			ahref: 'http://www.mstcl.com.tw/',
+			imgsrc: 'img/c13.png',
+			customername: '德軒科技',
 		},
 
 	];
