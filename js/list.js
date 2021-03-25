@@ -30,16 +30,16 @@ $(function () {
 			imgsrc: 'img/c6.png',
 			customername: '美伊娜多',
 		},
-		{
-			ahref: 'http://hero160.so-buy.com/m/',
-			imgsrc: 'img/c7.png',
-			customername: '忻瑜珈',
-		},
-		{
-			ahref: 'http://shop54.591red.com/',
-			imgsrc: 'img/c8.png',
-			customername: '丽芙苑',
-		},
+		// {
+		// 	ahref: 'http://hero160.so-buy.com/m/',
+		// 	imgsrc: 'img/c7.png',
+		// 	customername: '忻瑜珈',
+		// },
+		// {
+		// 	ahref: 'http://shop54.591red.com/',
+		// 	imgsrc: 'img/c8.png',
+		// 	customername: '丽芙苑',
+		// },
 		{
 			ahref: 'http://hero087.so-buy.com/m/',
 			imgsrc: 'img/c9.png',
