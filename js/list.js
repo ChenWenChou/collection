@@ -60,6 +60,11 @@ $(function () {
 			imgsrc: 'img/c13.png',
 			customername: '德軒科技',
 		},
+		{
+			ahref: 'https://hefongcar.github.io/index/',
+			imgsrc: 'img/c14.jpg',
+			customername: '合峰汽車',
+		},
 
 	];
 
