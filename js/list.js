@@ -1,7 +1,7 @@
 $(function () {
 	var list = [
 		{
-			ahref: 'http://17yichi.com.tw/m/',
+			ahref: 'https://www.17yichi.com/',
 			imgsrc: 'img/c1.png',
 			customername: '一齊和牛燒肉',
 		},
