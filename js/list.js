@@ -1,35 +1,30 @@
 $(function () {
 	var list = [
-		{
-			ahref: 'https://www.17yichi.com/',
-			imgsrc: 'img/c1.png',
-			customername: '一齊和牛燒肉',
-		},
-		{
-			ahref: 'http://ws013.so-buy.com/m/',
-			imgsrc: 'img/c2.png',
-			customername: '欣安物業',
-		},
-		{
-			ahref: 'http://ws016.so-buy.com/m/',
-			imgsrc: 'img/c3.png',
-			customername: '集研生醫',
-		},
-		{
-			ahref: 'http://hero114.so-buy.com/m/',
-			imgsrc: 'img/c4.png',
-			customername: '雙龍汽車',
-		},
-		{
-			ahref: 'https://www.tact.com.tw/m/',
-			imgsrc: 'img/c5.png',
-			customername: '台灣拓人',
-		},
-		{
-			ahref: 'http://www.menard.com.tw/m/',
-			imgsrc: 'img/c6.png',
-			customername: '美伊娜多',
-		},
+		// {
+		// 	ahref: 'http://17yichi.com.tw/m/',
+		// 	imgsrc: 'img/c1.png',
+		// 	customername: '一齊和牛燒肉',
+		// },
+		// {
+		// 	ahref: 'http://ws013.so-buy.com/m/',
+		// 	imgsrc: 'img/c2.png',
+		// 	customername: '欣安物業',
+		// },
+		// {
+		// 	ahref: 'http://ws016.so-buy.com/m/',
+		// 	imgsrc: 'img/c3.png',
+		// 	customername: '集研生醫',
+		// },
+		// {
+		// 	ahref: 'http://hero114.so-buy.com/m/',
+		// 	imgsrc: 'img/c4.png',
+		// 	customername: '雙龍汽車',
+		// },
+		// {
+		// 	ahref: 'https://www.tact.com.tw/m/',
+		// 	imgsrc: 'img/c5.png',
+		// 	customername: '台灣拓人',
+		// },
 		// {
 		// 	ahref: 'http://hero160.so-buy.com/m/',
 		// 	imgsrc: 'img/c7.png',
@@ -40,10 +35,30 @@ $(function () {
 		// 	imgsrc: 'img/c8.png',
 		// 	customername: '丽芙苑',
 		// },
+		// {
+		// 	ahref: 'http://hero087.so-buy.com/m/',
+		// 	imgsrc: 'img/c9.png',
+		// 	customername: '臺灣福建總商會',
+		// },
 		{
-			ahref: 'http://hero087.so-buy.com/m/',
-			imgsrc: 'img/c9.png',
-			customername: '臺灣福建總商會',
+			ahref: 'https://www.mygo.com/',
+			imgsrc: 'img/c17.png',
+			customername: 'MyGo各平台',
+		},
+		{
+			ahref: 'https://howpalaopostudio.github.io/web/',
+			imgsrc: 'img/c15.png',
+			customername: '怕老婆工作室',
+		},
+		{
+			ahref: 'https://chenwenchou.github.io/collection/vivo/',
+			imgsrc: 'img/c16.png',
+			customername: 'vivo追日神攝手',
+		},
+		{
+			ahref: 'http://www.menard.com.tw/m/',
+			imgsrc: 'img/c6.png',
+			customername: '美伊娜多',
 		},
 		{
 			ahref: 'http://www.trymedia.tw/m/home.php',
@@ -55,11 +70,11 @@ $(function () {
 			imgsrc: 'img/c12.png',
 			customername: '隆電',
 		},
-		{
-			ahref: 'http://www.mstcl.com.tw/',
-			imgsrc: 'img/c13.png',
-			customername: '德軒科技',
-		},
+		// {
+		// 	ahref: 'http://www.mstcl.com.tw/',
+		// 	imgsrc: 'img/c13.png',
+		// 	customername: '德軒科技',
+		// },
 		{
 			ahref: 'https://hefongcar.github.io/index/',
 			imgsrc: 'img/c14.jpg',
